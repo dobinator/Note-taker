@@ -2,7 +2,7 @@
 
 ## Description:
 
-This application was created to write and save notes. The notes can be deleted as well, bu clicking on the trashcan icon. The application will be launched by Heroku. 
+This application was created to write and save notes. The notes can be deleted as well, b\y clicking on the trashcan icon. The application will be launched by Heroku. 
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@ This application was created to write and save notes. The notes can be deleted a
 * Questions
 
 ## Installation
-
+ The file server.js needs to open to run in the terminal.
 
 ## Dependencies
 
