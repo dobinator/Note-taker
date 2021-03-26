@@ -29,4 +29,4 @@ You will need Express and uuid if you want to clone or fork.
 ## Questions
  If you are interested in contributing with this application, my github user name is Dobinator and my email is dobsonemily@gmail.com
 
-![note-taker](../image/screenshot.png)
+![Note-taker](./image/screenshot.png)
