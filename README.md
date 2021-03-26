@@ -2,7 +2,7 @@
 
 ## Description:
 
-This application was created to write and save notes. The application will be launched by Heroku. 
+This application was created to write and save notes. The notes can be deleted as well, bu clicking on the trashcan icon. The application will be launched by Heroku. 
 
 ## Table of Contents
 
@@ -15,11 +15,9 @@ This application was created to write and save notes. The application will be la
 ## Installation
 
 
-
-
 ## Dependencies
 
-You will need Express and uuid. 
+You will need Express and uuid if you want to clone or fork.
 
 ## Testing
 
