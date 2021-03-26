@@ -21,6 +21,7 @@ You will need Express and uuid if you want to clone or fork.
 
 ## Testing
 
+There has not been any testing on this application.
 
 ## Contribute
 
