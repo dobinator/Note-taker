@@ -2,7 +2,7 @@
 
 ## Description:
 
-This application was created to assist with the ...
+This application was created to write and save notes. The application will be launched by Heroku. 
 
 ## Table of Contents
 
@@ -15,8 +15,11 @@ This application was created to assist with the ...
 ## Installation
 
 
+
+
 ## Dependencies
 
+You will need Express and uuid. 
 
 ## Testing
 
