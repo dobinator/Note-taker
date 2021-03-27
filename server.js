@@ -22,7 +22,7 @@ app.use(express.static("public"));
 app.get("/api/notes", function (req, res){
 res.json(data)
 
-    //Retrieves all notes and res.json them back to the front end.
+ //Retrieves all notes and res.json them back to the front end.
     });
     
 app.post("/api/notes", function (req, res){
@@ -33,10 +33,10 @@ app.post("/api/notes", function (req, res){
      if (err) throw err 
  })
  res.end ()
-
-
-    //creates a note from the req. body
+//creates a note from the req. body
     });
+
+    
 app.delete("/api/notes/:id", function(req, res){
       //delete a note based off id
         const { id } = req.params;
