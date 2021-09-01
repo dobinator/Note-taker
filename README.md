@@ -31,3 +31,6 @@ There has not been any testing on this application.
  If you are interested in contributing with this application, my github user name is Dobinator and my email is dobsonemily@gmail.com
 
 ![Note-taker](./image/screenshot.png)
+
+link to deployed site:
+https://notetaker-emd.herokuapp.com/
