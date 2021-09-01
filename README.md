@@ -2,7 +2,7 @@
 
 ## Description:
 
-This application was created to write and save notes. The notes can be deleted as well, b\y clicking on the trashcan icon. The application will be launched by Heroku. 
+This application was created to write and save notes. The notes can be deleted as well, by clicking on the trashcan icon. The application is launched on Heroku. 
 
 ## Table of Contents
 
