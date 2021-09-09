@@ -7,30 +7,34 @@ This application was created to write and save notes. The notes can be deleted a
 ## Table of Contents
 
 * Installation
+* Built with
 * Dependencies
 * Testing
-* Contribute
-* Questions
+* Contribute / Questions
 
-## Installation
+## Installation:
+
  The file server.js needs to open to run in the terminal.
+ 
+## Built with:
+-HTML
+-CSS 
 
-## Dependencies
+## Dependencies:
 
 You will need Express and uuid if you want to clone or fork.
 
-## Testing
+## Testing:
 
 There has not been any testing on this application.
 
-## Contribute
-
-
-
-## Questions
+## Contribute / Questions:
  If you are interested in contributing with this application, my github user name is Dobinator and my email is dobsonemily@gmail.com
+ 
+### Still of application: 
 
 ![Note-taker](./image/screenshot.png)
 
-link to deployed site:
+### Link to deployed site:
+
 https://notetaker-emd.herokuapp.com/
