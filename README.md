@@ -17,8 +17,10 @@ This application was created to write and save notes. The notes can be deleted a
  The file server.js needs to open to run in the terminal.
  
 ## Built with:
--HTML
--CSS 
+- HTML
+- CSS/ Bootstrap
+- Express
+- Nodemon
 
 ## Dependencies:
 
@@ -29,7 +31,7 @@ You will need Express and uuid if you want to clone or fork.
 There has not been any testing on this application.
 
 ## Contribute / Questions:
- If you are interested in contributing with this application, my github user name is Dobinator and my email is dobsonemily@gmail.com
+ If you are interested in contributing or need to contact me with this application, my github user name is Dobinator and my email is dobsonemily@gmail.com
  
 ### Still of application: 
 
